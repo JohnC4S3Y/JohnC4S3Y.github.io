@@ -11,9 +11,9 @@
 	<link>https://cc-andernach.de</link>
 	<description>
 		<![CDATA[
-				<p><b>Der Audio-Podcast der City Church Andernach.</b></p>
-				<p>2006 entstand unsere Kirche in Andernach mit dem Ziel, den Glauben an Jesus im 21. Jahrhundert relevant zu leben, für andere erlebbar zu machen und den Bedürfnissen der Menschen in der Umgebung und weltweit zu begegnen.</p>
-				<p>Alle Infos findest du auf unserer Website: <ahref="https://cc-andernach.de">cc-andernach.de</a>.</p>]]>
+			<p><b>Der Audio-Podcast der City Church Andernach.</b></p>
+			<p>2006 entstand unsere Kirche in Andernach mit dem Ziel, den Glauben an Jesus im 21. Jahrhundert relevant zu leben, für andere erlebbar zu machen und den Bedürfnissen der Menschen in der Umgebung und weltweit zu begegnen.</p>
+			<p>Alle Infos findest du auf unserer Website: <a href="https://cc-andernach.de">cc-andernach.de</a>.</p>]]>
 	</description>
 	<copyright>2022 FeG City Church Andernach</copyright>
 	<lastBuildDate>Sun, 13 Mar 2021 00:00:00 +0100</lastBuildDate>
@@ -49,7 +49,6 @@
 	
 	<item>
 		<title>You, me, the church, that's us: Big Church | Clarissa Lopez</title>
-		<link>https://cc-andernach.de</link>
 		<enclosure url="https://podcast.cc-andernach.de/mp3/2022-10-30_Clarissa.mp3" length="48418816" type="audio/mpeg"/>
 		<guid>https://podcast.cc-andernach.de/mp3/2022-10-30_Clarissa.mp3</guid>
 		<itunes:duration>00:50:26</itunes:duration>
@@ -61,14 +60,13 @@
 	</item>
 	<item>
 		<title>You, me, the church, that's us: Mini Church | Kenneth Dei</title>
-		<link>https://cc-andernach.de</link>
 		<enclosure url="https://podcast.cc-andernach.de/mp3/2022-11-06_Kenneth.mp3" length="40103936" type="audio/mpeg"/>
 		<guid>https://podcast.cc-andernach.de/mp3/2022-11-06_Kenneth.mp3</guid>
 		<itunes:duration>00:41:46</itunes:duration>
 		<content:encoded>
 			<![CDATA[
-				<p>Predigt vom 06.11.2022 <ahref="https://youtu.be/COM63kCRyO0">(Hier geht's zum Video)</a>.</p>
-				<p>Unsere Website: <ahref="https://cc-andernach.de">cc-andernach.de</a></p>]]>
+				<p>Predigt vom 06.11.2022 <a href="https://youtu.be/COM63kCRyO0">(Hier geht's zum Video)</a>.</p>
+				<p>Unsere Website: <a href="https://cc-andernach.de">cc-andernach.de</a></p>]]>
 		</content:encoded>
 		<pubDate>Sun, 06 Nov 2022 14:00:00 +0100</pubDate>
 		<itunes:image href="https://podcast.cc-andernach.de/Logos/YMTC.jpg"/>
@@ -76,14 +74,13 @@
 	</item>
 	<item>
 		<title>Test | Kenneth Dei</title>
-		<link>https://cc-andernach.de</link>
 		<enclosure url="https://podcast.cc-andernach.de/mp3/Test.mp3" length="39329792" type="audio/mpeg"/>
 		<guid>https://podcast.cc-andernach.de/mp3/Test.mp3</guid>
 		<itunes:duration>00:40:57</itunes:duration>
 		<content:encoded>
 			<![CDATA[
-				<p>Predigt vom 06.11.2022 <ahref="https://youtu.be/COM63kCRyO0">(Hier geht's zum Video)</a>.</p>
-				<p>Unsere Website: <ahref="https://cc-andernach.de">cc-andernach.de</a></p>]]>
+				<p>Predigt vom 06.11.2022 <a href="https://youtu.be/COM63kCRyO0">(Hier geht's zum Video)</a>.</p>
+				<p>Unsere Website: <a href="https://cc-andernach.de">cc-andernach.de</a></p>]]>
 		</content:encoded>
 		<pubDate>Mon, 07 Nov 2022 14:00:00 +0100</pubDate>
 		<itunes:image href="https://podcast.cc-andernach.de/Logos/YMTC.jpg"/>
