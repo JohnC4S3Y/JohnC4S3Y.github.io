@@ -49,11 +49,11 @@
 			<enclosure url="https://podcast.cc-andernach.de/mp3/2022-11-06_Kenneth.mp3" length="40103936" type="audio/mpeg"/>
 			<guid>https://podcast.cc-andernach.de/mp3/2022-11-06_Kenneth.mp3</guid>
 			<itunes:duration>00:41:46</itunes:duration>
-			<description>
+			<content:encoded>
 				<![CDATA[
 					<p>Predigt vom 06.11.2022 <ahref="https://youtu.be/COM63kCRyO0">(Hier geht's zum Video)</a>.</p>
 					<p>Unsere Website: <ahref="https://cc-andernach.de">cc-andernach.de</a></p>]]>
-			</description>
+			</content:encoded>
 			<pubDate>Sun, 06 Nov 2022 14:00:00 +0100</pubDate>
 			<itunes:image href="https://podcast.cc-andernach.de/Logos/YMTC.jpg"/>
 			<cca:yt>https://www.youtube.com/embed/COM63kCRyO0</cca:yt>
