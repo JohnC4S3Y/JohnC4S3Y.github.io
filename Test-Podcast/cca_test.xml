@@ -1,76 +1,94 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:spotify="https://www.spotify.com/ns/rss" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cca="https://cc.andernach.de/v1" version="2.0">
-	<channel>
+<rss
+	version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:cca="https://cc.andernach.de/v1">
+	
+<channel>
+	<title>City Church Andernach Podcast</title>
+	<link>https://cc-andernach.de</link>
+	<description>
+		<![CDATA[
+				<p><b>Der Audio-Podcast der City Church Andernach.</b></p>
+				<p>2006 entstand unsere Kirche in Andernach mit dem Ziel, den Glauben an Jesus im 21. Jahrhundert relevant zu leben, für andere erlebbar zu machen und den Bedürfnissen der Menschen in der Umgebung und weltweit zu begegnen.</p>
+				<p>Alle Infos findest du auf unserer Website: <ahref="https://cc-andernach.de">cc-andernach.de</a>.</p>]]>
+	</description>
+	<copyright>2022 FeG City Church Andernach</copyright>
+	<lastBuildDate>Sun, 13 Mar 2021 00:00:00 +0100</lastBuildDate>
+	
+	<language>de-DE</language>
+	
+	<image>
+		<url>https://podcast.cc-andernach.de/Logos/CCA_Logo_1400x1400.png</url>
 		<title>City Church Andernach Podcast</title>
 		<link>https://cc-andernach.de</link>
-		<description>
-			<![CDATA[
-					<p><b>Der Audio-Podcast der City Church Andernach.</b></p>
-					<p>2006 entstand unsere Kirche in Andernach mit dem Ziel, den Glauben an Jesus im 21. Jahrhundert relevant zu leben, für andere erlebbar zu machen und den Bedürfnissen der Menschen in der Umgebung und weltweit zu begegnen.</p>
-					<p>Alle Infos findest du auf unserer Website: <ahref="https://cc-andernach.de">cc-andernach.de</a>.</p>]]>
-		</description>
-		<language>de-DE</language>
-		<copyright>2022 FeG City Church Andernach</copyright>
-		<image>
-			<url>https://podcast.cc-andernach.de/Logos/CCA_Logo_1400x1400.png</url>
-			<title>City Church Andernach Podcast</title>
-			<link>https://cc-andernach.de</link>
-		</image>
-		<atom:link href="https://podcast.cc-andernach.de/cca.xml" rel="self" type="application/rss+xml"/>
-		<itunes:subtitle>Deine Stadt. Deine Kirche.</itunes:subtitle>
-		<itunes:author>FeG City Church Andernach</itunes:author>
-		<itunes:owner>
-			<itunes:name>FeG City Church Andernach</itunes:name>
-			<itunes:email>podcast@cc-andernach.de</itunes:email>
-		</itunes:owner>
-		<lastBuildDate>Sun, 13 Mar 2021 00:00:00 +0100</lastBuildDate>
-		<itunes:image href="https://podcast.cc-andernach.de/Logos/CCA_Logo_1400x1400.png"/>
-		<itunes:category text="Religion &amp; Spirituality">
-			<itunes:category text="Christianity"/>
-		</itunes:category>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:keywords>
+	</image>
+	
+	<atom:link href="https://podcast.cc-andernach.de/cca.xml" rel="self" type="application/rss+xml"/>
+	<itunes:subtitle>Deine Stadt. Deine Kirche.</itunes:subtitle>
+	<itunes:author>FeG City Church Andernach</itunes:author>
+	
+	<itunes:owner>
+		<itunes:name>FeG City Church Andernach</itunes:name>
+		<itunes:email>podcast@cc-andernach.de</itunes:email>
+	</itunes:owner>
+	
+	<itunes:image href="https://podcast.cc-andernach.de/Logos/CCA_Logo_1400x1400.png"/>
+	
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Christianity"/>
+	</itunes:category>
+
+	<itunes:explicit>no</itunes:explicit>
+	
+	<itunes:keywords>
 		City,Church,Predigt,Glaube,Bibel,Religion,Andernach,Gemeinde,evangelisch,CCA,FeG,Podcast
 	</itunes:keywords>
-		
-		<item>
-			<title>You, me, the church, that's us: Big Church | Clarissa Lopez</title>
-			<enclosure url="https://podcast.cc-andernach.de/mp3/2022-10-30_Clarissa.mp3" length="48418816" type="audio/mpeg"/>
-			<guid>https://podcast.cc-andernach.de/mp3/2022-10-30_Clarissa.mp3</guid>
-			<itunes:duration>00:50:26</itunes:duration>
-			<description>Predigt vom 30.10.2022
-	  Predigtvideo: https://youtu.be/SjrUMYxZYYk</description>
-			<pubDate>Sun, 30 Oct 2022 14:00:00 +0100</pubDate>
-			<itunes:image href="https://podcast.cc-andernach.de/Logos/YMTC.jpg"/>
-			<cca:yt>https://www.youtube.com/embed/SjrUMYxZYYk</cca:yt>
-		</item>
-		<item>
-			<title>You, me, the church, that's us: Mini Church | Kenneth Dei</title>
-			<enclosure url="https://podcast.cc-andernach.de/mp3/2022-11-06_Kenneth.mp3" length="40103936" type="audio/mpeg"/>
-			<guid>https://podcast.cc-andernach.de/mp3/2022-11-06_Kenneth.mp3</guid>
-			<itunes:duration>00:41:46</itunes:duration>
-			<content:encoded>
-				<![CDATA[
-					<p>Predigt vom 06.11.2022 <ahref="https://youtu.be/COM63kCRyO0">(Hier geht's zum Video)</a>.</p>
-					<p>Unsere Website: <ahref="https://cc-andernach.de">cc-andernach.de</a></p>]]>
-			</content:encoded>
-			<pubDate>Sun, 06 Nov 2022 14:00:00 +0100</pubDate>
-			<itunes:image href="https://podcast.cc-andernach.de/Logos/YMTC.jpg"/>
-			<cca:yt>https://www.youtube.com/embed/COM63kCRyO0</cca:yt>
-		</item>
-		<item>
-			<title>Test | Kenneth Dei</title>
-			<enclosure url="https://podcast.cc-andernach.de/mp3/Test.mp3" length="39329792" type="audio/mpeg"/>
-			<guid>https://podcast.cc-andernach.de/mp3/Test.mp3</guid>
-			<itunes:duration>00:40:57</itunes:duration>
-			<content:encoded>
-				<![CDATA[
-					<p>Predigt vom 06.11.2022 <ahref="https://youtu.be/COM63kCRyO0">(Hier geht's zum Video)</a>.</p>
-					<p>Unsere Website: <ahref="https://cc-andernach.de">cc-andernach.de</a></p>]]>
-			</content:encoded>
-			<pubDate>Mon, 07 Nov 2022 14:00:00 +0100</pubDate>
-			<itunes:image href="https://podcast.cc-andernach.de/Logos/YMTC.jpg"/>
-			<cca:yt>https://www.youtube.com/embed/COM63kCRyO0</cca:yt>
-		</item>
-	</channel>
+	
+	<item>
+		<title>You, me, the church, that's us: Big Church | Clarissa Lopez</title>
+		<link>https://cc-andernach.de</link>
+		<enclosure url="https://podcast.cc-andernach.de/mp3/2022-10-30_Clarissa.mp3" length="48418816" type="audio/mpeg"/>
+		<guid>https://podcast.cc-andernach.de/mp3/2022-10-30_Clarissa.mp3</guid>
+		<itunes:duration>00:50:26</itunes:duration>
+		<description>Predigt vom 30.10.2022
+  Predigtvideo: https://youtu.be/SjrUMYxZYYk</description>
+		<pubDate>Sun, 30 Oct 2022 14:00:00 +0100</pubDate>
+		<itunes:image href="https://podcast.cc-andernach.de/Logos/YMTC.jpg"/>
+		<cca:yt>https://www.youtube.com/embed/SjrUMYxZYYk</cca:yt>
+	</item>
+	<item>
+		<title>You, me, the church, that's us: Mini Church | Kenneth Dei</title>
+		<link>https://cc-andernach.de</link>
+		<enclosure url="https://podcast.cc-andernach.de/mp3/2022-11-06_Kenneth.mp3" length="40103936" type="audio/mpeg"/>
+		<guid>https://podcast.cc-andernach.de/mp3/2022-11-06_Kenneth.mp3</guid>
+		<itunes:duration>00:41:46</itunes:duration>
+		<content:encoded>
+			<![CDATA[
+				<p>Predigt vom 06.11.2022 <ahref="https://youtu.be/COM63kCRyO0">(Hier geht's zum Video)</a>.</p>
+				<p>Unsere Website: <ahref="https://cc-andernach.de">cc-andernach.de</a></p>]]>
+		</content:encoded>
+		<pubDate>Sun, 06 Nov 2022 14:00:00 +0100</pubDate>
+		<itunes:image href="https://podcast.cc-andernach.de/Logos/YMTC.jpg"/>
+		<cca:yt>https://www.youtube.com/embed/COM63kCRyO0</cca:yt>
+	</item>
+	<item>
+		<title>Test | Kenneth Dei</title>
+		<link>https://cc-andernach.de</link>
+		<enclosure url="https://podcast.cc-andernach.de/mp3/Test.mp3" length="39329792" type="audio/mpeg"/>
+		<guid>https://podcast.cc-andernach.de/mp3/Test.mp3</guid>
+		<itunes:duration>00:40:57</itunes:duration>
+		<content:encoded>
+			<![CDATA[
+				<p>Predigt vom 06.11.2022 <ahref="https://youtu.be/COM63kCRyO0">(Hier geht's zum Video)</a>.</p>
+				<p>Unsere Website: <ahref="https://cc-andernach.de">cc-andernach.de</a></p>]]>
+		</content:encoded>
+		<pubDate>Mon, 07 Nov 2022 14:00:00 +0100</pubDate>
+		<itunes:image href="https://podcast.cc-andernach.de/Logos/YMTC.jpg"/>
+		<cca:yt>https://www.youtube.com/embed/COM63kCRyO0</cca:yt>
+	</item>
+</channel>
+
 </rss>
